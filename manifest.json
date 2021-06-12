@@ -1,0 +1,16 @@
+{
+  "background_color": "#000",
+   "theme_color": "#000",
+  "description": "New world of Gaming",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "plogo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "name": "HG OFFICIAL",
+  "short_name": "HG OFFICIAL",
+  "start_url": "index.html"
+}
